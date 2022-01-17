@@ -36,7 +36,7 @@ xsi:noNamespaceSchemaLocation="ems.xsd">
 <Employee id="632">
    <empName>Addya</empName>
    <empAge>33</empAge>
-   <empSalary>900000</empSalary>
+   <empSalary>90000</empSalary>
    <empEmail>addya@gmail.com</empEmail>
    <empPhonenum>8884004885</empPhonenum>
    <empDesignation>SDE-1</empDesignation>
@@ -46,7 +46,7 @@ xsi:noNamespaceSchemaLocation="ems.xsd">
 <Employee id="549">
    <empName>Deepti</empName>
    <empAge>44</empAge>
-   <empSalary>900000</empSalary>
+   <empSalary>90000</empSalary>
    <empEmail>deepti@gmail.com</empEmail>
    <empPhonenum>7892581898</empPhonenum>
    <empDesignation>SDE-2</empDesignation>
