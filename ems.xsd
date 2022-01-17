@@ -7,7 +7,6 @@
 			<xs:sequence>
 				<xs:element name="Employee" maxOccurs="unbounded">
 					<xs:complexType>
-						<xs:attribute name="id" type="xs:integer"/>
 						<xs:sequence>
 							<xs:element name ="empName" type="xs:string"/>
 							<xs:element name="empAge" type ="xs:integer"/>
@@ -16,6 +15,7 @@
 							<xs:element name="empPhonenum" type="xs:integer"/>
 							<xs:element name="empDesignation" type="xs:string"/>
 						</xs:sequence>
+						<xs:attribute name="id" type="xs:integer"/>
                     </xs:complexType>
                 </xs:element>
              </xs:sequence>
